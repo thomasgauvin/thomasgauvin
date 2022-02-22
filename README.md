@@ -1,8 +1,8 @@
 ### Hi, I'm Thomas. 
 I'm a Cloud Solution Architect at Microsoft based in Canada 🇨🇦 and a software developer. I like to build projects that save people time and are a joy to use. 
 
-- 🌱 I"m currently learning about serverless architectures, microservices and Devops.
-- ⚒️ I"m currently working on projects that make developing easier & blogging about my learnings
+- 🌱 I'm currently learning about serverless architectures, microservices and Devops.
+- ⚒️ I'm currently working on projects that make developing easier & blogging about my learnings
 - ✍️ I'm blogging at http://blog.thomasgauvin.com/
 - 💬 Talk to me about microservices vs monoliths, product strategy and career development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thomas-gauvin/)
