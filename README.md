@@ -1,3 +1,10 @@
+<style>
+  
+  . {
+  color: red;
+  }
+  </style>
+
 ### Hi, I'm Thomas. 
 ## I'm learning by building projects and documenting my progress. I'm interested in software engineering, web development and AI.
 
