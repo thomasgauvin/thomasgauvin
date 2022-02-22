@@ -2,7 +2,9 @@
 I'm a Cloud Solution Architect at Microsoft based in Canada 🇨🇦 and a software developer. I like to build projects that save people time and are a joy to use. 
 
 - 🌱 I’m currently learning about serverless architectures, microservices and Devops.
-- 
+- ⚒️ I’m currently working on projects that make developing easier & blogging about my learnings
+- 💬 Talk to me about microservices vs monoliths, product strategy and career development
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thomas-gauvin/)
 
 ### Projects I've worked on at Microsoft
 
@@ -12,11 +14,9 @@ I'm a Cloud Solution Architect at Microsoft based in Canada 🇨🇦 and a softw
 
 ### Personal projects
 
-| ![image](https://user-images.githubusercontent.com/35609369/155170340-ab34e7a9-a781-49b1-ab79-5de685cfe583.png) SharedMic | ![image](https://user-images.githubusercontent.com/35609369/155171272-b6369002-3270-433f-a9fa-f9d9e80c1f26.png)
- [Concordia Campus Guide](https://github.com/Concordia-Campus-Guide/Concordia-Campus-Guide) | ![image](https://user-images.githubusercontent.com/35609369/155170894-1fad6a97-5da1-42c6-9ac2-a5e982e39f96.png) [Bonjour-Hi](https://github.com/ZacharyBys/bonjour-hi) |
+| ![image](https://user-images.githubusercontent.com/35609369/155170340-ab34e7a9-a781-49b1-ab79-5de685cfe583.png) SharedMic | ![image](https://user-images.githubusercontent.com/35609369/155171272-b6369002-3270-433f-a9fa-f9d9e80c1f26.png) [Concordia Campus Guide](https://github.com/Concordia-Campus-Guide/Concordia-Campus-Guide) | ![image](https://user-images.githubusercontent.com/35609369/155170894-1fad6a97-5da1-42c6-9ac2-a5e982e39f96.png) [Bonjour-Hi](https://github.com/ZacharyBys/bonjour-hi) |
 | --- | --- | --- |
-| ![image](https://user-images.githubusercontent.com/35609369/155171022-f6579339-94c3-4fdf-95e7-430cc7594509.png) [Smart IoT Refrigerator](https://github.com/Jacobian8/ConUHacks-2019) | ![image](https://user-images.githubusercontent.com/35609369/155171309-7b310857-910d-4406-8abd-4cde24aa7eac.png)
- [Vision - A virtual walking-cane](https://github.com/muskanaul/Vision) | |
+| ![image](https://user-images.githubusercontent.com/35609369/155171022-f6579339-94c3-4fdf-95e7-430cc7594509.png) <p align="center">[**Smart IoT Refrigerator**](https://github.com/Jacobian8/ConUHacks-2019)</p> | ![image](https://user-images.githubusercontent.com/35609369/155171309-7b310857-910d-4406-8abd-4cde24aa7eac.png) <p align="center">[**Vision - A virtual walking-cane**](https://github.com/muskanaul/Vision)</p> | |
 
 <!--
 **thomasgauvin/thomasgauvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
