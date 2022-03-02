@@ -3,7 +3,7 @@ I'm a Cloud Solution Architect at Microsoft based in Canada 🇨🇦 and a softw
 
 - 🌱 I'm currently learning about serverless architectures, microservices and Devops.
 - ⚒️ I'm currently working on projects that make developing easier & blogging about my learnings
-- ✍️ I'm blogging at http://blog.thomasgauvin.com/
+- ✍️ I'm blogging at https://blog.thomasgauvin.com/
 - 💬 Talk to me about microservices vs monoliths, product strategy and career development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thomas-gauvin/)
 
