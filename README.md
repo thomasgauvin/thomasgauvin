@@ -7,7 +7,7 @@ I'm a Product Manager and software developer. Currently working on Azure Static 
 - 💬 Talk to me about microservices vs monoliths, product strategy and career development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thomas-gauvin/)
 
-### Projects I've worked on at Microsoft
+### Projects I've worked on at Microsoft as a Cloud Solution Architect
 
 | ![image](https://user-images.githubusercontent.com/35609369/157315519-2f153a8a-6317-425d-b152-795867e5fbfa.png) [**How to setup an Azure Immersive Reader resource and configure Azure Active Directory authentication**](https://github.com/thomasgauvin/How-to-setup-an-Azure-Immersive-Reader-resource-and-configure-Azure-Active-Directory-authentication) | ![image](https://user-images.githubusercontent.com/35609369/156690728-ba53a918-cde7-4830-aafd-b6a1a03ed9e8.png) [**Extract-Data-from-Forms-automatically-with-Form-Recognizer-and-Logic-Apps**](https://github.com/thomasgauvin/Extract-Data-from-Forms-automatically-with-Form-Recognizer-and-Logic-Apps) | ![image](https://user-images.githubusercontent.com/35609369/155168134-1e400b70-4729-4a82-aa95-2bcd0011e987.png) [**Application-Insights-Simple-Javascript-Demo-with-Custom-Events**](https://github.com/thomasgauvin/Application-Insights-Simple-Javascript-Demo-with-Custom-Events) <br /> *Track custom web page events (ex: feature usage) using Application Insights* |
 | --- | --- | --- |
