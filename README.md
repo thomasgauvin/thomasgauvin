@@ -1,5 +1,5 @@
 ### Hi, I'm Thomas. 
-I'm a Product Manager and software developer. Currently working on Azure Static Web Apps at Microsoft. I like to build projects that save people time and are a joy to use. 
+I'm a product manager and software developer. Currently working on Azure Static Web Apps at Microsoft. I like to build projects that save people time and are a joy to use. 
 
 - 🌱 I'm currently learning about serverless architectures, microservices and Devops.
 - ⚒️ I'm currently working on projects that make developing easier & blogging about my learnings
