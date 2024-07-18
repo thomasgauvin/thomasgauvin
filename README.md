@@ -15,7 +15,7 @@ I'm a product manager and software developer.
 
 ### Archive of University, hackathon, & personal projects
 
-* SharedMic
+* SharedMic - A platform to discuss podcasts
 * [Concordia Campus Guide](https://github.com/Concordia-Campus-Guide/Concordia-Campus-Guide)
 * [Bonjour-Hi: Multilingual video chat rooms](https://github.com/ZacharyBys/bonjour-hi)
 * [Smart IoT Refrigerator](https://github.com/Jacobian8/ConUHacks-2019)
