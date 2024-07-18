@@ -1,13 +1,10 @@
 ### Hi, I'm Thomas. 
 I'm a product manager and software developer. 
 
-- 🌱 I'm currently learning about serverless architectures, microservices and Devops.
-- ⚒️ I'm currently working on projects that make developing easier & blogging about my learnings
-- ✍️ I'm blogging at https://blog.thomasgauvin.com/
-- 💬 Talk to me about microservices vs monoliths, product strategy and career development
+- ✍️ I blog at https://thomasgauvin.com/blog
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thomas-gauvin/)
 
-### Projects I've worked on as a Cloud Solution Architect
+### Archive of Azure projects
 
 * [How to setup an Azure Immersive Reader resource and configure Azure Active Directory authentication](https://github.com/thomasgauvin/How-to-setup-an-Azure-Immersive-Reader-resource-and-configure-Azure-Active-Directory-authentication)
 * [Extract-Data-from-Forms-automatically-with-Form-Recognizer-and-Logic-Apps](https://github.com/thomasgauvin/Extract-Data-from-Forms-automatically-with-Form-Recognizer-and-Logic-Apps)
