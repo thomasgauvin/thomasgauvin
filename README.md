@@ -13,7 +13,7 @@ I'm a product manager and software developer.
 * [Azure-Cognitive-Services-Speech-Azure-Functions-demo](https://github.com/thomasgauvin/Azure-Cognitive-Services-Speech-Azure-Functions-demo)
 * [cv-knowledge-engine-accelerator](https://github.com/thomasgauvin/cv-knowledge-engine-accelerator)
 
-### Archive of University, hackathon, & personal projects
+### Archive of older projects
 
 * SharedMic - A platform to discuss podcasts
 * [Concordia Campus Guide](https://github.com/Concordia-Campus-Guide/Concordia-Campus-Guide)
