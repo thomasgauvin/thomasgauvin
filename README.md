@@ -1,5 +1,4 @@
-- ✍️ I blog at https://thomasgauvin.com/blog
-- Reach me on [LinkedIn](https://www.linkedin.com/in/thomas-gauvin/) or [Twitter](https://twitter.com/thomasgauvin)
+I blog at https://thomasgauvin.com/blog, and you can reach me on [LinkedIn](https://www.linkedin.com/in/thomas-gauvin/) or [Twitter](https://twitter.com/thomasgauvin).
 
 ### Projects I'm currently working on:
 * https://github.com/thomasgauvin/PMTiles-styling
