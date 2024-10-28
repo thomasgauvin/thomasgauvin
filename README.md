@@ -4,8 +4,11 @@ I'm a product manager and software developer.
 - ✍️ I blog at https://thomasgauvin.com/blog
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thomas-gauvin/)
 
-### Archive of Azure projects
+### Projects I'm currently working on:
+* https://github.com/thomasgauvin/PMTiles-styling
+* https://github.com/thomasgauvin/noted
 
+### Archive of Azure projects:
 * [How to setup an Azure Immersive Reader resource and configure Azure Active Directory authentication](https://github.com/thomasgauvin/How-to-setup-an-Azure-Immersive-Reader-resource-and-configure-Azure-Active-Directory-authentication)
 * [Extract-Data-from-Forms-automatically-with-Form-Recognizer-and-Logic-Apps](https://github.com/thomasgauvin/Extract-Data-from-Forms-automatically-with-Form-Recognizer-and-Logic-Apps)
 * [Application-Insights-Simple-Javascript-Demo-with-Custom-Events](https://github.com/thomasgauvin/Application-Insights-Simple-Javascript-Demo-with-Custom-Events)
@@ -13,8 +16,7 @@ I'm a product manager and software developer.
 * [Azure-Cognitive-Services-Speech-Azure-Functions-demo](https://github.com/thomasgauvin/Azure-Cognitive-Services-Speech-Azure-Functions-demo)
 * [cv-knowledge-engine-accelerator](https://github.com/thomasgauvin/cv-knowledge-engine-accelerator)
 
-### Archive of older projects
-
+### Archive of hackathon and university projects:
 * SharedMic - A platform to discuss podcasts
 * [Concordia Campus Guide](https://github.com/Concordia-Campus-Guide/Concordia-Campus-Guide)
 * [Bonjour-Hi: Multilingual video chat rooms](https://github.com/ZacharyBys/bonjour-hi)
