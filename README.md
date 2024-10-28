@@ -1,8 +1,5 @@
-### Hi, I'm Thomas. 
-I'm a product manager and software developer. 
-
 - ✍️ I blog at https://thomasgauvin.com/blog
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thomas-gauvin/)
+- Reach me on [LinkedIn](https://www.linkedin.com/in/thomas-gauvin/) or [Twitter](https://twitter.com/thomasgauvin)
 
 ### Projects I'm currently working on:
 * https://github.com/thomasgauvin/PMTiles-styling
