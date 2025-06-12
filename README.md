@@ -1,4 +1,4 @@
-I blog at https://thomasgauvin.com/blog, and you can reach me on [LinkedIn](https://www.linkedin.com/in/thomas-gauvin/) or [Twitter](https://twitter.com/thomasgauvin).
+I blog at https://thomasgauvin.com, and you can reach me on [LinkedIn](https://www.linkedin.com/in/thomas-gauvin/) or [Twitter](https://twitter.com/thomasgauvin).
 
 ### Projects I'm currently working on:
 * https://geofetcher.appsinprogress.com/
