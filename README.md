@@ -2,6 +2,7 @@ I blog at https://thomasgauvin.com, and you can reach me on [LinkedIn](https://w
 
 ### Projects I'm currently working on:
 * https://geofetcher.appsinprogress.com/
+* https://mcp-interceptor.appsinprogress.com/
 * https://github.com/thomasgauvin/PMTiles-styling
 * https://github.com/thomasgauvin/noted
 
